@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588527919 source:e:\teach1\ant\main.c
+	<stdio.h>
+	<stdlib.h>
+
